@@ -38,13 +38,4 @@ SOFTWARE REQUIRED:
 
 ## RESULT:
 Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
-## CIRCUIT DIAGRAM: Non inverting amplifier:
-
-## GRAPH: Non inverting amplifier:
-
-## CIRCUIT DIAGRAM: Differential amplifier: 
-
-## GRAPH: Differential amplifier:
-
-## RESULT:
 
